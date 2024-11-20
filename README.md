@@ -9,4 +9,4 @@ css3
 
 <h2> Ekran Görüntüsü </h2>
 
-![](Restaurant menu.gif)
+![](restaurant-menu.gif)
