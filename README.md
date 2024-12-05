@@ -1,6 +1,6 @@
 <h1>Restaurant Menu </h2>
 
-Html5 ve Css3 ile oluşturduğumu responsive tasarımlı web sitesi
+Html5 ve Css3 ile oluşturduğum responsive tasarımlı web sitesi
 
 <h2> Kullanılan Teknolojiler </h2>
 
